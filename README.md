@@ -64,13 +64,6 @@ Results
 
 The model generates translated images from input images after training.
 
-# Project Structure
-PRODIGY_GA_04
-│
-├── pix2pix_model.ipynb
-├── dataset
-├── results
-└── README.md
 
 # Applications
 
