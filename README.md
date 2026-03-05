@@ -64,17 +64,14 @@ Results
 
 The model generates translated images from input images after training.
 
-# Example output:
-
-Input Image	Target Image	Generated Image
-Label Map	Real Building	Generated Building
-Project Structure
+# Project Structure
 PRODIGY_GA_04
 │
 ├── pix2pix_model.ipynb
 ├── dataset
 ├── results
 └── README.md
+
 # Applications
 
 Image-to-Image translation models can be used for:
